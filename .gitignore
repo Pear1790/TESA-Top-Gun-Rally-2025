@@ -1,0 +1,45 @@
+# MATLAB generated files
+*.slxc
+*.asv
+*.mex*
+
+# Simulink cache and build
+slprj/
+quadrotorsmodel2_grt_rtw/
+quadrotorsmodel3_grt_rtw/
+quadrotorsmodel1_grt_rtw/
+
+# Generated code
+*.c
+*.h
+*.bat
+*.mk
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS
+*.iso
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.mat
+data/
+
+# Large model weights (already tracked separately)
+*.pt
+*.pkl
