@@ -1,0 +1,6 @@
+ทำการ เปิดโปรแกรมอัตโนมัติ (ติดเครื่อง PI)
+
+sudo-raspi-config
+sudo-raspi-config: command not found
+pi@hcu:~ $ sudo raspi-config
+pi@hcu:~ $ sudo systemctl status cron
