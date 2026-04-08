@@ -2,6 +2,7 @@
 
 คู่มือการใช้งานระบบเชื่อมต่อระหว่าง **MATLAB (Offense)**, **Python YOLOv8 (Defense)** และ **React (Dashboard)** ผ่าน Backend กลางแบบเรียลไทม์
 
+สามารถดูไฟล์ได้ที่ [google drive](https://drive.google.com/drive/folders/1-F_dNI2L8cjs1jg5DsssSNWrkw_sNs3j?usp=)
 ---
 
 ## 🏗️ สถาปัตยกรรมระบบ (Architecture)
@@ -57,7 +58,7 @@ python 4_gps_testing.py
 
 *(รูปตัวอย่าง สามารถวาง Screen capture ที่ได้จากการ Capture หน้าจอใส่ลงในโฟลเดอร์นี้ได้เลยจ้า)*
 
-- **หน้าของ MATLAB (Offense) ** โหมด `Operation Strike` ขณะ MATLAB กำลังส่งค่าเข้ามา หน้าปัด Altitude กับแกนความเร็วต่างๆ จะแปรผันตามทันที
-- **หน้าของ Python (Defense) ** โหมด `Sentinel Watch` จะมีคำเตือน "INTRUDER DETECTED" กะพริบขึ้นถ้า Python โยนข้อมูล JSON ของโดรนที่ตรวจจับได้เข้ามาในท่อ
+- **(./tesa1.png)** โหมด `Operation Strike` ขณะ MATLAB กำลังส่งค่าเข้ามา หน้าปัด Altitude กับแกนความเร็วต่างๆ จะแปรผันตามทันที (หน้าของ MATLAB (Offense))
+- **(./tesa2.png)** โหมด `Sentinel Watch` จะมีคำเตือน "INTRUDER DETECTED" กะพริบขึ้นถ้า Python โยนข้อมูล JSON ของโดรนที่ตรวจจับได้เข้ามา (หน้าของ Python (Defense))
 
 ---
