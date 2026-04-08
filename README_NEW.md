@@ -58,7 +58,7 @@ python 4_gps_testing.py
 
 *(รูปตัวอย่าง สามารถวาง Screen capture ที่ได้จากการ Capture หน้าจอใส่ลงในโฟลเดอร์นี้ได้เลยจ้า)*
 
-- **!(./tesa1.png)** โหมด `Operation Strike` ขณะ MATLAB กำลังส่งค่าเข้ามา หน้าปัด Altitude กับแกนความเร็วต่างๆ จะแปรผันตามทันที (หน้าของ MATLAB (Offense))
-- **!(./tesa2.png)** โหมด `Sentinel Watch` จะมีคำเตือน "INTRUDER DETECTED" กะพริบขึ้นถ้า Python โยนข้อมูล JSON ของโดรนที่ตรวจจับได้เข้ามา (หน้าของ Python (Defense))
+- **![หน้าของ MATLAB (ความผิด)](./tesa1.png)** โหมด `Operation Strike` ขณะ MATLAB กำลังส่งค่าเข้ามา หน้าปัด Altitude กับแกนความเร็วต่างๆ จะแปรผันตามทันที 
+- **![หน้าของ Python (Defense](./tesa2.png)** โหมด `Sentinel Watch` จะมีคำเตือน "INTRUDER DETECTED" กะพริบขึ้นถ้า Python โยนข้อมูล JSON ของโดรนที่ตรวจจับได้เข้ามา 
 
 ---
