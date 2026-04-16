@@ -7,6 +7,8 @@ This is a comprehensive drone detection, tracking, and control system developed 
 1. **TESA Defense (Python)** - Drone Detection & GPS Tracking System
 2. **TESA Offense (MATLAB)** - Quadrotor Control & Trajectory Planning System
 
+![Dashboard Picture](./tesa1.png)
+![Dashboard Picture](./tesa2.png)
 ---
 
 ## 🛡️ TESA Defense - Drone Detection & Tracking System
@@ -316,8 +318,3 @@ Member
 - GPU support recommended for faster video processing in Defense system
 - All video paths should be absolute or relative from workspace root
 - API tokens should be stored securely in environment variables
-
----
-
-**Last Updated**: November 2025  
-**Status**: Active Development
