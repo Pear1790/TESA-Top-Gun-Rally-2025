@@ -294,12 +294,17 @@ See `license.txt` in Tesa_Offense directory for license information.
 
 ## 👥 Project Contributors
 - TESA Top Gun Rally 2025 Team
+Member
+1.[Gorrawit Puttabarramee](https://github.com/Ampsoria)
+2.[กนกพร รุ่งรัตนพงศ์](https://github.com/Ampsoria)
+3.[Thassanawalai Manusayanont](https://github.com/thassanawalai)
+4.[Nontapat Boonsup](https://github.com/AozoraSycro)
+5.[Siriwimon Sitasen(ME)](https://github.com/Pear1790)
 
 ---
 
 ## 📞 Support & Resources
 
-- **TESA API Documentation**: https://tesa-api.crma.dev
 - **MATLAB Documentation**: https://www.mathworks.com/help/matlab/
 - **YOLO Documentation**: https://docs.ultralytics.com/
 
